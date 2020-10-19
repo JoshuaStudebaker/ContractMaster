@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "rLZqNsxmAPF2qxi9LlQVbDH66ZRFNv0AcUgtYdWXpqeCCT/R8FJ3KJ7S9sFYmA2tIkbwfKVXLfC26VJE1CWYCA==",
+  "dgSpecHash": "Vh4bYYke51knv4ifmg3z0rugUqZIm3CQk6LNNyrFiYumoBuctpiVscXMUGSyoevzdccqeZdd7oQWSMv8BzZh7w==",
   "success": true,
   "projectFilePath": "C:\\source\\codeworks\\fall-2020\\afternoon-challenges\\ContractMaster\\ContractMaster.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jsstu\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
+    "C:\\Users\\jsstu\\.nuget\\packages\\mysqlconnector\\1.0.1\\mysqlconnector.1.0.1.nupkg.sha512",
+    "C:\\Users\\jsstu\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
